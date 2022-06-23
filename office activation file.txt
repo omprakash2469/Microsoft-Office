@@ -1,0 +1,5 @@
+command to run in powershell:
+.\setup.exe /configure .\configuration-x64.xml
+
+youtube video link:
+https://youtube.com/watch?v=gP0Dgk2CnYU
